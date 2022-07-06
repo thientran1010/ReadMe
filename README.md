@@ -1,5 +1,5 @@
 # Thien Tran
-Hello and welcome to my page!
+Hello and welcome to my page! <br/>
 Introduction: 
 I have a bachelor's in business technology management and a master's in computer science.
 My goal is to use AI and Machine Learning to help businesses bring more values to their customers.
